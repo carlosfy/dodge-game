@@ -14,10 +14,22 @@ body {
 }
 
 #canvas {
-    background-color: #f0f0f0;
+    background-color: white;
     border-radius: 5px;
 }
 
 #source {
     display: none;
   }
+
+#oeuf {
+    display: none
+}
+
+#poussin {
+    display: none
+}
+
+#huevo {
+    display: none
+}
